@@ -1,0 +1,14 @@
+Puerto:
+
+21
+
+Usuario:
+
+alex7894
+
+Contraseña:
+
+alex4321
+Nombre del Host:
+
+files.000webhost.com
